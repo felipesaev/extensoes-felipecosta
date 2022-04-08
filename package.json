@@ -1,0 +1,66 @@
+{
+    "name": "felipecosta",
+    "displayName": "felipecosta",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName",
+        "bierner.markdown-preview-github-styles",
+    "Compulim.vscode-clock",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "earshinov.sort-lines-by-selection",
+    "legfrey.javascript-test-runner",
+    "MarkThomasMiller.sorcerer",
+    "Nautigsam.go-to-test",
+    "NuclleaR.vscode-extension-auto-import",
+    "Orta.vscode-jest",
+    "pnp.polacode",
+    "shyykoserhiy.vscode-spotify",
+    "silvenon.mdx",
+    "vscode-icons-team.vscode-icons",
+    "Zignd.html-css-class-completion",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "mrmlnc.vscode-duplicate",
+    "patbenatar.advanced-new-file",
+    "waderyan.gitblame",
+    "ms-vsliveshare.vsliveshare",
+    "apollographql.vscode-apollo",
+    "jpoissonnier.vscode-styled-components",
+    "xabikos.javascriptsnippets",
+    "andys8.jest-snippets",
+    "skyran.js-jsx-snippets",
+    "pulkitgangwar.nextjs-snippets",
+    "zhuangtongfa.material-theme",
+    "ms-vscode.vscode-typescript-next",
+    "VisualStudioExptTeam.vscodeintellicode"
+    ],
+     "publisher": "felipecosta",
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "next",
+    "styled-components",
+    "graphql",
+    "apollo"
+  ],
+  "repository": {
+    "url": "https://github.com/React-Avancado/reactavancado-extension-pack"
+  },
+  "homepage": "https://github.com/React-Avancado/reactavancado-extension-pack",
+  "bugs": {
+    "url": "https://github.com/React-Avancado/reactavancado-extension-pack/issues"
+  }
+}
