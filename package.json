@@ -2,14 +2,14 @@
     "name": "thats-all-folks",
     "displayName": "Thats all Folks",
     "description": "",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "engines": {
         "vscode": "^1.66.0"
     },
     "categories": [
         "Extension Packs"
     ],
-     "publisher": "felipesaev",
+     "publisher": "felipecosta",
   "galleryBanner": {
     "color": "#030518",
     "theme": "dark"
