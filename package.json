@@ -9,6 +9,26 @@
     "categories": [
         "Extension Packs"
     ],
+     "publisher": "felipecosta",
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "next",
+    "styled-components",
+    "graphql",
+    "apollo"
+  ],
+  "repository": {
+    "url": "https://github.com/felipesaev/extensoes-felipecosta"
+  },
+  "homepage": "https://github.com/felipesaev/extensoes-felipecosta",
+  "bugs": {
+    "url": "https://github.com/felipesaev/extensoes-felipecosta"
+  },
     "extensionPack": [ 
         "publisher.extensionName",
         "bierner.markdown-preview-github-styles",
@@ -42,25 +62,5 @@
     "zhuangtongfa.material-theme",
     "ms-vscode.vscode-typescript-next",
     "VisualStudioExptTeam.vscodeintellicode"
-    ],
-     "publisher": "felipecosta",
-  "galleryBanner": {
-    "color": "#030518",
-    "theme": "dark"
-  },
-  "keywords": [
-    "react",
-    "typescript",
-    "next",
-    "styled-components",
-    "graphql",
-    "apollo"
-  ],
-  "repository": {
-    "url": "https://github.com/React-Avancado/reactavancado-extension-pack"
-  },
-  "homepage": "https://github.com/React-Avancado/reactavancado-extension-pack",
-  "bugs": {
-    "url": "https://github.com/React-Avancado/reactavancado-extension-pack/issues"
-  }
+    ]
 }
